@@ -5,17 +5,6 @@
   float: left;
 }
 
-/* .horizontalBar {
-  position: relative; 
-  top: 0px;
-} */
-
-/* .leftBar { 
-  width:100%;
-  overflow:hidden;
-  height:50px
-} */
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -31,7 +20,7 @@ li {
 li button {
   background: none!important;
   text-decoration: none;
-  padding: 14px 16px;
+  padding: 14px 50px;
   color: white;
   cursor: pointer;
   display: block;
